@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "activities": "Brush your teeth.",
+        "description": "reprehenderit irure nisi reprehen",
+        "schedule": "8:00 am",
+        "time-required": 10,
+        "img": "https://i.pinimg.com/originals/e4/20/45/e420459b613c68e4d1c3916caecf2f66.jpg",
+        "status": "complete"
+    },
+    {
+        "id": 1,
+        "activities": "take a shower",
+        "description": "nisi ut ipsum pariatur ad duis ullamco eu tempor et ut est proident nulla ve",
+        "schedule": "08:20 am",
+        "time-required": 20,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzajwjUZjtml2FVY0EqiYZusROZ0fsyrNpwA&usqp=CAU",
+        "status": "complete"
+    },
+    {
+        "id": 2,
+        "activities": "Have breakfast",
+        "description": "et deserunt sint sint est tempor laboris aliquip conseq",
+        "schedule": "08:40 am",
+        "time-required": 30,
+        "img": "https://thumbs.dreamstime.com/b/boy-happy-to-eat-breakfast-morning-little-boy-happy-to-eat-breakfast-morning-138377331.jpg",
+        "status": "complete"
+    },
+    {
+        "id": 3,
+        "activities": "Wash the dishes",
+        "description": "sint ullamco incididunt labor",
+        "schedule": "09:10 pm",
+        "time-required": 10,
+        "img": "https://img.freepik.com/premium-vector/little-girl-washing-dishes-kitchen_181870-425.jpg?w=2000",
+        "status": "complete"
+    },
+    {
+        "id": 4,
+        "activities": "Check your homework",
+        "description": "incididunt proident ut aliqua officia commodo velit re",
+        "schedule": "9:20 pm",
+        "time-required": 30,
+        "img": "https://img.freepik.com/free-vector/girl-doing-homework-with-books-white-background_1308-92473.jpg?w=2000",
+        "status": "complete"
+    },
+    {
+        "id": 5,
+        "activities": "Get dressed",
+        "description": "ut qui enim qui fugiat ea velit anim enim ipsum ulla",
+        "schedule": "09:50 pm",
+        "time-required": 10,
+        "img": "https://img.freepik.com/premium-vector/happy-cute-kid-boy-dressing-process_97632-1134.jpg?w=2000",
+        "status": "complete"
+    },
+    {
+        "id": 6,
+        "activities": "Go to School",
+        "description": "mollit laborum consectetur minim anim laboris officia aute elit laboris ipsum irure nisi veni",
+        "schedule": "10:00 am",
+        "time-required": 60,
+        "img": "https://img.freepik.com/premium-vector/kids-go-school-vector-illustration_97632-360.jpg?w=2000",
+        "status": "complete"
+    },
+    {
+        "id": 7,
+        "activities": "Study Programming",
+        "description": "anim aute sint nulla et eu commodo eius",
+        "schedule": "11:00 pm",
+        "time-required": 60,
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200114192751/How-to-Learn-Programming.png",
+        "status": "complete"
+    },
+    {
+        "id": 8,
+        "activities": "Study Data Structure",
+        "description": "elit veniam dolor deserunt eiusmod velit consectetur nostrud aliqua quis ",
+        "schedule": "12:00 pm",
+        "time-required": 60,
+        "img": "https://www.codingninjas.com/blog/wp-content/uploads/2021/04/Blog-5.png",
+        "status": "complete"
+    },
+    {
+        "id": 9,
+        "activities": "Have Lunch",
+        "description": "fugiat veniam magna culpa aliquip ullamco aute labore quis enim laboris est offici",
+        "schedule": "01:00 pm",
+        "time-required": 60,
+        "img": "https://en.pimg.jp/056/915/743/1/56915743.jpg",
+        "status": "complete"
+    }
+]
