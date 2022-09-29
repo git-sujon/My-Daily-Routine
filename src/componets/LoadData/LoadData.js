@@ -31,7 +31,7 @@ const LoadData = () => {
     return (
         <div className='row'>
             <div className='col-12 col-md-9'>
-                <div className="row row-cols-1 row-cols-md-3 g-5">
+                <div className="row row-cols-1 row-cols-md-3 g-3">
                     {
                         FullActivities.map(activities => <DisplayData
                             activities={activities}

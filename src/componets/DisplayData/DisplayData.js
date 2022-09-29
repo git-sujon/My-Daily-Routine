@@ -13,9 +13,9 @@ const DisplayData = (props) => {
 
         <div className="cards">
             <div className="full-card">
-                <div className="card">
-                    <img src={img} className="card-img " alt="..." />
-                    <div className="card-body">
+                <div className="card ">
+                    <img src={img} className="card-img mx-auto" alt="..." />
+                    <div className="card-body mx-auto">
                         <h5 className="card-title fw-bold">{activities}</h5>
                         <p className="card-text">{fullDescription}</p>
                         <p><span className='fw-bold'>Schedule:</span> {schedule}</p>

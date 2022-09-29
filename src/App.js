@@ -1,8 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import LoadData from './componets/LoadData/LoadData';
 import Header from './componets/Header/Header';
-import Aside from './componets/Aside/Aside';
 
 function App() {
 
