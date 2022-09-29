@@ -10,10 +10,10 @@ function App() {
       <Header></Header>
       
       <div className='row'>
-        <div className='col-9'>
+        <div className='col-12 col-md-9'>
       <LoadData></LoadData>
         </div>
-        <div className='col-3'>
+        <div className='col-12 col-md-3'>
         <Aside></Aside>
         </div>
       </div>

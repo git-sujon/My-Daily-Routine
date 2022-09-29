@@ -16,7 +16,7 @@ const DisplayData = (props) => {
                         <h5 className="card-title fw-bold">{activities}</h5>
                         <p className="card-text">{fullDescription}</p>
                         <p><span className='fw-bold'>Schedule:</span> {schedule}</p>
-                        <p className='fw-bold'>Time required: <span className='fw-semibold'>{timeRequired} Minutes</span></p>
+                        <p className='fw-bold'>Time Takes: <span className='fw-semibold'>{timeRequired} Minutes</span></p>
                         <div className='btn-holder'>
                             <button className='btn btn-primary card-btn w-100'>Complete</button>
                         </div>
