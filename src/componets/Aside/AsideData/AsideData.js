@@ -11,9 +11,8 @@ const AsideData = ({activitiesArray}) => {
     for (let activities  of activitiesArray) {
         totalTimeNeeds= totalTimeNeeds+ activities.timeRequired
     }
-    const [btntext, setbtntext] = useState([])
+    const [btntext, setbtntext] = useState(0)
 
-    const [timeAdded, setTimeAdded] = useState([])
  
     const handleBreakButton =(e) => {
         let value= e.target.innerText
@@ -36,7 +35,7 @@ const AsideData = ({activitiesArray}) => {
       
         });
 
-
+  
 
     // let getData= JSON.parse(localStorage.getItem("breakTime"))
     // console.log(getData)
