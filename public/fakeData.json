@@ -11,7 +11,7 @@
     {
         "id": 1,
         "activities": "Take a shower",
-        "description": "nisi ut ipsum pariatur ad duis ullamco eu tempor et ut est proident nulla ve",
+        "description": "nisi ut ipsum pariatur ad duis ullamco eu tempor et ut est",
         "schedule": "08:20 am",
         "timeRequired": 20,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzajwjUZjtml2FVY0EqiYZusROZ0fsyrNpwA&usqp=CAU",
@@ -56,7 +56,7 @@
     {
         "id": 6,
         "activities": "Go to School",
-        "description": "mollit laborum consectetur minim anim laboris officia aute elit laboris ipsum irure nisi veni",
+        "description": "mollit laborum consectetur minim anim laboris officia",
         "schedule": "10:00 am",
         "timeRequired": 60,
         "img": "https://img.freepik.com/premium-vector/kids-go-school-vector-illustration_97632-360.jpg?w=2000",
@@ -74,7 +74,7 @@
     {
         "id": 8,
         "activities": "Study Data Structure",
-        "description": "elit veniam dolor deserunt eiusmod velit consectetur nostrud aliqua quis ",
+        "description": "elit veniam dolor deserunt eiusmod velit consectetur ",
         "schedule": "12:00 pm",
         "timeRequired": 60,
         "img": "https://www.codingninjas.com/blog/wp-content/uploads/2021/04/Blog-5.png",
@@ -83,7 +83,7 @@
     {
         "id": 9,
         "activities": "Have Lunch",
-        "description": "fugiat veniam magna culpa aliquip ullamco aute labore quis enim laboris est offici",
+        "description": "fugiat veniam magna culpa aliquip ullamco aute labore quis ",
         "schedule": "01:00 pm",
         "timeRequired": 60,
         "img": "https://en.pimg.jp/056/915/743/1/56915743.jpg",

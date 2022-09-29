@@ -1,10 +1,11 @@
 import React from 'react';
 import AsideData from './AsideData/AsideData';
 
-const Aside = () => {
+const Aside = ({activitiesArray}) => {
+    
     return (
         <div>
-            <AsideData></AsideData>
+            <AsideData activitiesArray={activitiesArray} ></AsideData>
         </div>
     );
 };

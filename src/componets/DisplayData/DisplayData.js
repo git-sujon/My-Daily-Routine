@@ -3,7 +3,10 @@ import './DisplayData.css'
 
 const DisplayData = (props) => {
     const { activities, description, schedule, timeRequired, img } = props.activities
+    const {timeAddHandler} =props
     let fullDescription = description.slice(0, 70)
+  
+ 
 
     return (
 
@@ -18,7 +21,7 @@ const DisplayData = (props) => {
                         <p><span className='fw-bold'>Schedule:</span> {schedule}</p>
                         <p className='fw-bold'>Time Takes: <span className='fw-semibold'>{timeRequired} Minutes</span></p>
                         <div className='btn-holder'>
-                            <button className='btn btn-primary card-btn w-100'>Complete</button>
+                            <button onClick={()=>timeAddHandler(props.activities)} className='btn btn-primary card-btn w-100'>Complete</button>
                         </div>
                     </div>
 
