@@ -31,7 +31,11 @@ const AsideData = ({activitiesArray}) => {
     },[] )
     
 
-  
+    const notify = () => toast.success('Congratulation Completed Your Daily Routine!!!!', {
+        position: "top-center",
+      
+        });
+
 
 
     // let getData= JSON.parse(localStorage.getItem("breakTime"))
@@ -90,7 +94,7 @@ const AsideData = ({activitiesArray}) => {
                     <p className='m-0 fw-bold'>Break Time:</p>
                     <p className='my-0  fw-bold text-secondary'><span className=''>{btntext}  </span> Minutes</p>
                 </div>
-                <div  className='btn btn-primary p-3 fw-bold  w-100 rounded-pill'>
+                <div onClick={notify} className='btn btn-primary p-3 fw-bold  w-100 rounded-pill'>
                     Activity Completed
                     <ToastContainer />
                 </div>
